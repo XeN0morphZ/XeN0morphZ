@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @javianng
-- 👀 I’m interested in becoming a Business Analyst
-- 🌱 I’m currently learning R and Python
-- 💞️ I’m looking to collaborate on nothing atm! I am still learning!
-- 📫 How to reach me j4vianz01@gmail.com!
+- 👋 Hi, I’m Javian!
+- 👀 I’m a Business Analytics Undergraduate studying in the National University of Singapore.
+- 🌱 I’m currently learning R and Python.
+- 📫 How to reach me: j4vianz01@gmail.com
 
 <!---
 XeN0morphZ/XeN0morphZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

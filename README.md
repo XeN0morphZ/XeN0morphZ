@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Javian</h1>
-<h3 align="center">Business Analytics Penultimate in NUS, ABYA Web Developer Lead, Ex-Full Stack Developer</h3>
+<h3 align="center">Business Analytics Penultimate in NUS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javianng&label=Profile%20views&color=0e75b6&style=flat" alt="javianng" /> </p>
 
